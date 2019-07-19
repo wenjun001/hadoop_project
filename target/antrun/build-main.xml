@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <mkdir dir="/home/hadoop/hadoop_file_system/hadoop_project/hadoop-2.6.5-src/hadoop-mapreduce-project/csc550/target/test-dir"/>
+  <mkdir dir="/home/hadoop/hadoop_file_system/hadoop_project/hadoop-2.6.5-src/hadoop-mapreduce-project/csc550/target/test-dir"/>
+</target>
+</project>
